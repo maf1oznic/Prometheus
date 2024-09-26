@@ -36,3 +36,8 @@ sudo systemctl restart prometheus
 sudo ./install_node_exporter.sh
 ```
 Метрики будут доступны на порту 9100
+
+[Дашборд Grafana](https://grafana.com/grafana/dashboards/1860-node-exporter-full/)
+
+Разные экпортеры и интеграции [тут](https://prometheus.io/docs/instrumenting/exporters/)
+
