@@ -30,6 +30,7 @@ sudo systemctl restart prometheus
 
 ### Мониторинг Linux сервера
 Устанавливаем node exporter (agent) который будет собирать метрики о операционной системе
+
 Запуск скрипта:
 ```
 sudo ./install_node_exporter.sh
